@@ -1,0 +1,58 @@
+[
+    {
+    "title": "Optimal Midair Refueling Optimization",
+    "imageSrc": "projects/project.png",
+    "description": "This project formulates minimizing the total time taken to complete airbourne missions maximizing success rate.",
+    "skills": ["MATLAB", "Julia"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+    },
+    {
+      "title": "Interactive Chat Bot",
+      "imageSrc": "projects/project.png",
+      "description": "Built a real-time, AI-powered chat application, featuring dynamic activity dashboard.",
+      "skills": ["React", "Node.js", "OpenAI", "CSS", "HTML"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Hybrid Cluster Tree with AODV Routing",
+      "imageSrc": "projects/project.png",
+      "description": "Designed a wireless sensor network using Cluster Tree Model and integrated AODV routing for improved adaptability.",
+      "skills": ["Python"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "SDSUEats Ordering Platform",
+      "imageSrc": "projects/project.png",
+      "description": "This project streamlines food ordering for SDSU students",
+      "skills": ["React", "REST", "Node.js", "MySQL", "Django", "JavaScript", "Docker", "HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Chatroom using Python Socket Programming",
+      "imageSrc": "projects/project.png",
+      "description": "This project showcases a multi-client chat server with a UI designed for Linux and Mac terminals.",
+      "skills": ["Python", "Linux", "MacOS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+      {
+        "title": "Cadence MOS Simulation",
+        "imageSrc": "projects/project.png",
+        "description": "Designed CMOS logic to implement gates using pseudo NMOS and pass transistor logic and conducted a comparitive analysis.",
+        "skills": ["Cadence", "SPICE modeling", "ADE"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+      },
+      {
+        "title": "Multi-Purpose Rover",
+        "imageSrc": "projects/project.png",
+        "description": "This project demonstrates the build of a rover that surveys and monitors conditions of remote places.",
+        "skills": ["Raspberry Pi", "Arduino", "Python", "C++", "Android Studio"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+      }
+  ]

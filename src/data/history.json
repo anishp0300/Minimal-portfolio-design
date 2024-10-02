@@ -1,0 +1,40 @@
+[
+    {
+      "role": "Dev Intern",
+      "organisation": "RadicalAI",
+      "startDate": "May 2024",
+      "endDate": "Present",
+      "experiences": ["Enhancing AI learning companion", "Implementing responsive design"],
+      "imageSrc": "history/radicalai.png"
+    },
+    {
+      "role": "Research Assistant",
+      "organisation": "SDSU",
+      "startDate": "Dec 2023",
+      "endDate": "May 2024",
+      "experiences": ["Worked on network protocols", "Boosted drone communications by 40%"],
+      "imageSrc": "history/sdsu.png"
+    },
+    {
+      "role": "SWE Intern",
+      "organisation": "Sigma Connectivity Inc.",
+      "startDate": "June 2023",
+      "endDate": "Sept 2023",
+      "experiences": [
+        "Developed network logging app & system service",
+        "Integrated custom kernel features"
+      ],
+      "imageSrc": "history/sigma.png"
+    },
+    {
+      "role": "Hardware-Firmware Engg Intern",
+      "organisation": "Avid Technology",
+      "startDate": "Oct 2020",
+      "endDate": "June 2021",
+      "experiences": [
+        "Engineering HUDs for EVs",
+        "Prototyped PCBs and led the design"
+      ],
+      "imageSrc": "history/Avid.png"
+    }
+  ]

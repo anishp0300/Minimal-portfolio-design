@@ -1,0 +1,75 @@
+[
+    {
+        "title": "Android Studio",
+        "imageSrc": "skills/AndroidStudio.png"
+    },
+    {
+        "title": "AOSP",
+        "imageSrc": "skills/AOSP.png"
+    },
+    {
+        "title": "OpenAI",
+        "imageSrc": "skills/OpenAI.png"
+    },
+    {
+        "title": "Git",
+        "imageSrc": "skills/Git.png"
+    },
+    {
+        "title": "Linux",
+        "imageSrc": "skills/Linux.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "skills/Python.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/Java.png"
+    },
+    {
+        "title": "Kotlin",
+        "imageSrc": "skills/kotlin.png"
+    },
+    {
+        "title": "C",
+        "imageSrc": "skills/C.png"
+    },
+    {
+        "title": "C++",
+        "imageSrc": "skills/C++.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "Node",
+        "imageSrc": "skills/node.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "JavaSctipt",
+        "imageSrc": "skills/javascript.png"
+    },
+    {
+        "title": "WireShark",
+        "imageSrc": "skills/wireshark.png"
+    },
+    {
+        "title": "MySQL",
+        "imageSrc": "skills/mySQL.png"
+    },
+    {
+        "title": "Cadence",
+        "imageSrc" : "skills/cadence.png"
+    }
+    
+]
